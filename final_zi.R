@@ -181,7 +181,7 @@ library(readxl)
 
 Sample_100_dat <- read_excel("Sample 100.xlsx")  #here you have to run the excel
 
-Sys.setenv(perspective_api_key = "AIzaSyAA8-6CmleZMWKK68Pw9oAnXtloUE3j1pE")
+Sys.setenv(perspective_api_key = "your key")
 
 
 
